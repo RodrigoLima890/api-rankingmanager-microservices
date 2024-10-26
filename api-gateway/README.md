@@ -40,23 +40,15 @@ $ npm run start
 
 # watch mode
 $ npm run start:dev
+<p>Vai subir o Broker(RabbitMQ) junto ao API Gateway</p>
 
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
+# Temos Técnicos
+<h4>NestJS Interceptors</h4>
+<p>Entregam um conjunto de recursos capazes de entregar:</p>
+<ul>
+  <li>Adição de lógica antes e depois de metodos</li>
+  <li>Implementa a interface NestInterceptor</li>
+<ul>
 
 ## Support
 
